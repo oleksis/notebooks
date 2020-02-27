@@ -1,0 +1,107 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - exercise",
+        "totalResults": "5",
+        "searchTerms": "exercise",
+        "count": 5,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "000045984045285095660:7xaecdr9bat"
+      }
+    ]
+  },
+  "context": {
+    "title": "Pywombat Exercises"
+  },
+  "searchInformation": {
+    "searchTime": 0.451904,
+    "formattedSearchTime": "0.45",
+    "totalResults": "5",
+    "formattedTotalResults": "5"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Excepciones propias",
+      "htmlTitle": "Excepciones propias",
+      "link": "http://pywombat.com/exercises/987775ba/",
+      "displayLink": "pywombat.com",
+      "snippet": "A partir de la clase Exception generar una excepción llamada DivisionByZero. El \nprograma debe lanzar una excepción de tipo DivisionByZero (dentro de la ...",
+      "htmlSnippet": "A partir de la clase Exception generar una excepción llamada DivisionByZero. El \u003cbr\u003e\nprograma debe lanzar una excepción de tipo DivisionByZero (dentro de la&nbsp;...",
+      "cacheId": "IReaytw3YaYJ",
+      "formattedUrl": "pywombat.com/exercises/987775ba/",
+      "htmlFormattedUrl": "pywombat.com/\u003cb\u003eexercises\u003c/b\u003e/987775ba/"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "El juego de la vida",
+      "htmlTitle": "El juego de la vida",
+      "link": "http://pywombat.com/exercises/2a8e4181/",
+      "displayLink": "pywombat.com",
+      "snippet": "Implementar el juego de la vida. 🤠. Restricción: No podrás hacer uso de ninguna \nlibrería, módulo o Framework que no se encuentre dentro de la biblioteca ...",
+      "htmlSnippet": "Implementar el juego de la vida. 🤠. Restricción: No podrás hacer uso de ninguna \u003cbr\u003e\nlibrería, módulo o Framework que no se encuentre dentro de la biblioteca&nbsp;...",
+      "cacheId": "FKF2F64EyxUJ",
+      "formattedUrl": "pywombat.com/exercises/2a8e4181/",
+      "htmlFormattedUrl": "pywombat.com/\u003cb\u003eexercises\u003c/b\u003e/2a8e4181/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS8ekUg7vDcu0wzTlw24lhAU1JEGCYGncXwLvqJz23Fi2mZQKJphGp7wA",
+            "width": "440",
+            "height": "115"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.imgur.com/zbshmct.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Pool de threads",
+      "htmlTitle": "Pool de threads",
+      "link": "http://pywombat.com/exercises/31ebed6e/",
+      "displayLink": "pywombat.com",
+      "snippet": "A partir de un pool de threads listar los primeros 30 números de la serie \nFibonnaci. Los Threads deben ejecutar la función fibonnaci. El máximo de \nThreads ...",
+      "htmlSnippet": "A partir de un pool de threads listar los primeros 30 números de la serie \u003cbr\u003e\nFibonnaci. Los Threads deben ejecutar la función fibonnaci. El máximo de \u003cbr\u003e\nThreads&nbsp;...",
+      "cacheId": "WyjqUgzcb60J",
+      "formattedUrl": "pywombat.com/exercises/31ebed6e/",
+      "htmlFormattedUrl": "pywombat.com/\u003cb\u003eexercises\u003c/b\u003e/31ebed6e/"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Consumir API de usuarios - Pywombat",
+      "htmlTitle": "Consumir API de usuarios - Pywombat",
+      "link": "http://pywombat.com/exercises/0a9e01e5/",
+      "displayLink": "pywombat.com",
+      "snippet": "Dado el API de random user, obtener cien usuarios diferentes y almacenarlos en \nun archivo .xls (Una hoja de excel). El archivo debe poseer una sola hoja con ...",
+      "htmlSnippet": "Dado el API de random user, obtener cien usuarios diferentes y almacenarlos en \u003cbr\u003e\nun archivo .xls (Una hoja de excel). El archivo debe poseer una sola hoja con&nbsp;...",
+      "cacheId": "KlcMeFNeGFwJ",
+      "formattedUrl": "pywombat.com/exercises/0a9e01e5/",
+      "htmlFormattedUrl": "pywombat.com/\u003cb\u003eexercises\u003c/b\u003e/0a9e01e5/"
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Formato de fechas en Español - Pywombat",
+      "htmlTitle": "Formato de fechas en Español - Pywombat",
+      "link": "http://pywombat.com/exercises/4dcdece5/",
+      "displayLink": "pywombat.com",
+      "snippet": "A partir de un objeto de tipo datetime, generar una función la cual retorne un \nformato en español de la fecha. La función debe tener por nombre formato_fecha\n.",
+      "htmlSnippet": "A partir de un objeto de tipo datetime, generar una función la cual retorne un \u003cbr\u003e\nformato en español de la fecha. La función debe tener por nombre formato_fecha\u003cbr\u003e\n.",
+      "cacheId": "WQNd0cS1aXUJ",
+      "formattedUrl": "pywombat.com/exercises/4dcdece5/",
+      "htmlFormattedUrl": "pywombat.com/\u003cb\u003eexercises\u003c/b\u003e/4dcdece5/"
+    }
+  ]
+}
