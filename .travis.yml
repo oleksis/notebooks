@@ -7,3 +7,4 @@ install:
 # command to run tests
 script:
   - py.test --nbval consumir_api_usuarios_live.ipynb
+  - py.test --nbval customsearch_api_pywombat_live.ipynb
