@@ -1,0 +1,15 @@
+*.pyc
+*.mp3
+*.mp4
+*.flv
+cookie*.txt
+env
+build
+dist
+*.spec
+*.egg-info
+old/
+*.part
+.idea
+.DS_Store
+.ipynb_checkpoints/
